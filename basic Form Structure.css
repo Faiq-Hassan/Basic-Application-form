@@ -1,0 +1,29 @@
+/* *{
+    box-sizing: border-box;
+} */
+#boxxy {
+    margin-top: 20%;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+
+/* .first-cont {
+    border: 2px solid black;
+} */
+
+.nav-1 {
+    text-align: center;
+    padding-bottom: 0%;
+    justify-content: center;
+    background-color: rgb(245, 0, 0);
+    width: 100%;
+    margin: 0px 0px 0px 0px;
+    padding: 0% 0%;
+}
+
+.nav-2 {
+    background-color: rgb(111, 210, 177);
+}
+.btns{
+    display:flex;
+}
